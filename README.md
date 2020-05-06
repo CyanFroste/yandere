@@ -19,4 +19,4 @@
 > react-native bundle --platform android --dev false --entry-file index.js --bundle-output android/app/src/main/assets/index.android.bundle --assets-dest android/app/src/main/res
 
 ### BUGS 
-- No search results are shown if you close the Search result screen while QDM is enabled
+- No search results are shown ever again if you close the Search result screen while QDM is enabled, need to restart the app
