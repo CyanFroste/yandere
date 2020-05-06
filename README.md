@@ -4,7 +4,7 @@
 ### Features
 - Browse
 - Download
-- Batch download by enablind QDM by long pressing an image
+- Batch download by enabling QDM by long pressing an image
 - Search by tag
 
 ### Technical features
@@ -14,7 +14,9 @@
 
 ### BUILD NOTES
 
-- Command to create index.android.bundle [source](https://medium.com/@impaachu/react-native-android-release-build-crash-on-device-14f2c9eacf18)
+- Command to create index.android.bundle ([source](https://medium.com/@impaachu/react-native-android-release-build-crash-on-device-14f2c9eacf18))
 
 > react-native bundle --platform android --dev false --entry-file index.js --bundle-output android/app/src/main/assets/index.android.bundle --assets-dest android/app/src/main/res
 
+### BUGS 
+- No search results are shown if you close the Search result screen while QDM is enabled
