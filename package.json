@@ -15,7 +15,7 @@
     "@react-navigation/native": "^5.2.1",
     "@react-navigation/stack": "^5.2.16",
     "react": "16.11.0",
-    "react-native": "0.62.2",
+    "react-native": "0.62.3",
     "react-native-gesture-handler": "^1.6.1",
     "react-native-image-zoom-viewer-fix": "^2.2.31",
     "react-native-masonry-list": "^2.16.1",
